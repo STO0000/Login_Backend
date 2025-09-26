@@ -8,7 +8,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pedro_Rogeles,Steven_trochez,Steven_Londono",
   "license": "ISC",
   "description": "",
   "dependencies": {
@@ -20,6 +20,14 @@
     "jsonwebtoken": "^9.0.2",
     "multer": "^2.0.2",
     "mysql": "^2.18.1",
-    "mysql2": "^3.15.0"
-  }
+    "mysql2": "^3.15.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STO0000/Login_Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/STO0000/Login_Backend/issues"
+  },
+  "homepage": "https://github.com/STO0000/Login_Backend#readme"
 }
